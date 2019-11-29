@@ -1,0 +1,30 @@
+{
+  "name": "canopus",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "config": "^1.29.4",
+    "express": "^4.16.2",
+    "fawn": "^2.1.5",
+    "jsonwebtoken": "^8.1.1",
+    "lodash": "^4.17.4",
+    "mongoose": "^5.0.2",
+    "nodemailer": "^4.6.8",
+    "xlsx": "^0.14.1",
+    "express-fileupload": "",
+    "cors": "",
+    "mongoose-random": ""
+  },
+  "engines": {
+    "node": "8.10.0"
+  }
+}
